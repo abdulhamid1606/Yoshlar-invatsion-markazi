@@ -1,12 +1,12 @@
 import { Box } from '@chakra-ui/react'
 import React from 'react'
 
-const boshsahfa = () => {
+function Login() {
   return (
-    <Box>
-        
-    </Box>
+  <Box>
+    Salom
+  </Box>
   )
 }
 
-export default boshsahfa
+export default Login
